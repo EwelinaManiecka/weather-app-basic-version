@@ -70,6 +70,7 @@ function App() {
             </div>
             {/* bottom description */}
             <Descriptions weather={weather} units={units} />
+            <footer>&copy; EManiecka DEV</footer>
           </div>
         )}
       </div>
